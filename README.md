@@ -19,7 +19,7 @@ according to the <code>offsetWidth</code> property.
 
 Now we're allowed to do this with CSS, which is more confortable, but nothing actually changes to banners' behavior.
 
-##Problem
+## Problem
 
 The new Adsense serves an advert as specified with CSS
 **on page load and on page load only (exactly like the old AdSense)**.
