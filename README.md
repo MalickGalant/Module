@@ -1,4 +1,5 @@
 Adsense
+
 ==================
 
 An attempt to make Google Adsense adverts truly responsive.
